@@ -1,0 +1,9 @@
+[package]
+name = "SpaceInvaders"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "*"
+rand = "0.8.5"
+bevy_hanabi = "0.14"
